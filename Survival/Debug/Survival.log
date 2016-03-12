@@ -1,0 +1,45 @@
+﻿Build started 7/20/2014 11:45:43 PM.
+     1>Project "\\psf\Home\Documents\OOD\projects\project4\Survival\Survival.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ActionsAndRules.cpp Collection.cpp ComLineParsing.cpp ConfigureParser.cpp Display.cpp Executive.cpp FileMgr.cpp FileSystem.cpp FoldingRules.cpp MNode.cpp Parser.cpp ScopeStack.cpp SemiExpression.cpp SimiAnalysis.cpp Tokenizer.cpp XmlWriter.cpp
+         XmlWriter.cpp
+         Tokenizer.cpp
+         SimiAnalysis.cpp
+         SemiExpression.cpp
+         ScopeStack.cpp
+         Parser.cpp
+         MNode.cpp
+         FoldingRules.cpp
+         FileSystem.cpp
+         FileMgr.cpp
+         Executive.cpp
+         Display.cpp
+         ConfigureParser.cpp
+         ComLineParsing.cpp
+         Collection.cpp
+         ActionsAndRules.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\psf\Home\Documents\OOD\projects\project4\Debug\Survival.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\psf\Home\Documents\OOD\projects\project4\Debug\Survival.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\psf\Home\Documents\OOD\projects\project4\Debug\Survival.lib" /MACHINE:X86 /DLL Debug\ActionsAndRules.obj
+         Debug\Collection.obj
+         Debug\ComLineParsing.obj
+         Debug\ConfigureParser.obj
+         Debug\Display.obj
+         Debug\Executive.obj
+         Debug\FileMgr.obj
+         Debug\FileSystem.obj
+         Debug\FoldingRules.obj
+         Debug\MNode.obj
+         Debug\Parser.obj
+         Debug\ScopeStack.obj
+         Debug\SemiExpression.obj
+         Debug\SimiAnalysis.obj
+         Debug\Tokenizer.obj
+         Debug\XmlWriter.obj
+            Creating library \\psf\Home\Documents\OOD\projects\project4\Debug\Survival.lib and object \\psf\Home\Documents\OOD\projects\project4\Debug\Survival.exp
+         Survival.vcxproj -> \\psf\Home\Documents\OOD\projects\project4\Debug\Survival.dll
+     1>Done Building Project "\\psf\Home\Documents\OOD\projects\project4\Survival\Survival.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:16.39

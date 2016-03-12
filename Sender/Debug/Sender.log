@@ -1,0 +1,22 @@
+﻿Build started 4/5/2014 1:56:15 PM.
+Project "C:\687\pr3\SocketDemo2 (1)\Sender\Sender.vcxproj" on node 2 (Rebuild target(s)).
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D NODOLOG /D _UNICODE /D UNICODE /Gm /EHa /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\BlockingQueue\BlockingQueue.cpp ..\Sockets\Sockets.cpp ..\Threads\Locks.cpp ..\Threads\Threads.cpp Sender.cpp
+  Sender.cpp
+  Threads.cpp
+  Locks.cpp
+  Sockets.cpp
+  BlockingQueue.cpp
+  Generating Code...
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\687\pr3\SocketDemo2 (1)\Debug\Sender.exe" /INCREMENTAL /NOLOGO wsock32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\687\pr3\SocketDemo2 (1)\Debug\Sender.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\687\pr3\SocketDemo2 (1)\Debug\Sender.lib" /MACHINE:X86 Debug\BlockingQueue.obj
+  Debug\Sockets.obj
+  Debug\Locks.obj
+  Debug\Threads.obj
+  Debug\Sender.obj
+  Sender.vcxproj -> C:\687\pr3\SocketDemo2 (1)\Debug\Sender.exe
+Done Building Project "C:\687\pr3\SocketDemo2 (1)\Sender\Sender.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.45

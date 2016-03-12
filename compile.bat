@@ -1,0 +1,1 @@
+devenv SocketDemo2.sln /rebuild debug
